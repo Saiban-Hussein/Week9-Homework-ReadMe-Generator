@@ -1,0 +1,22 @@
+{
+  "name": "week9-homework-readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saiban-Hussein/Week9-Homework-ReadMe-Generator.git"
+  },
+  "author": "Saiban Hussein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saiban-Hussein/Week9-Homework-ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/Saiban-Hussein/Week9-Homework-ReadMe-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
